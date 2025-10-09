@@ -9,7 +9,7 @@
 Fast, clean conversations. No accounts. No tracking.
 
 <p align="center">
-  <a href="https://1drv.ms/u/c/C6D9B4F0E148D4C6/EVWy6RyTTrFFtbapsWDrqzYBVWA7NA4jpjtjL2y5SxuRSA?e=rjkbKR"><b>⬇️ Download the latest APK</b></a><br/>
+  <a href="https://1drv.ms/u/c/C6D9B4F0E148D4C6/EVWy6RyTTrFFtbapsWDrqzYBVWA7NA4jpjtjL2y5SxuRSA?e=KXjz62"><b>⬇️ Download the latest APK</b></a><br/>
   <sub>Verified build · Signed and ready to sideload</sub>
 </p>
 
