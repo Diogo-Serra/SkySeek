@@ -1,45 +1,41 @@
-# SkySeek for Android
+# 🌌 SkySeek for Android
 
 **A private, login‑free AI chat app powered by GPT‑5.**
+Fast, clean conversations. No accounts. No tracking. No cloud history. Just you and your ideas.
 
-SkySeek is built for people who want the power of modern AI without the bloat. No accounts, no tracking, no cloud history—just fast, clean conversations and simple, swappable agents.
-
----
-
-## 🚀 Download
-
-**➡️ [Download the latest APK](releases/latest)**
-
-> Verified build. Signed and ready to sideload.
-
-**Requires:** Android 8.0 (Oreo) or newer · ~40–80 MB free space · Internet connection
+<p align="center">
+  <a href="releases/latest"><b>⬇️ Download the latest APK</b></a><br/>
+  <sub>Verified build · Signed and ready to sideload</sub>
+</p>
 
 ---
 
-## Why SkySeek?
+## ✨ Why SkySeek?
 
-* **Private by design** — no logins, no analytics, no server‑side chat storage
-* **GPT‑5 responses** — fast, accurate, and streamed live
-* **Lightweight agents** — tap to switch roles (General, Research, Code, Tutor) or create your own
-* **Beautifully simple UI** — distraction‑free chat, markdown and code blocks, one‑tap copy/share
-* **Local control** — chats stored on‑device; export/import when you want
+* 🔐 **Private by design** — no logins, no analytics, no server‑side chat storage
+* 🧠 **GPT‑5 responses** — fast, accurate, and streamed live
+* 🧩 **Lightweight agents** — switch roles (General, Research, Code, Tutor) or create your own
+* 🧼 **Beautifully simple UI** — distraction‑free chat, Markdown + code blocks, one‑tap copy/share
+* 🗂️ **Local control** — chats stay on‑device; export/import when you want
 
----
-
-## Key Features
-
-* 🔐 **Zero sign‑in**: launch and chat—nothing to create or connect
-* 🧠 **GPT‑5 engine** with streaming replies
-* 🧩 **Agents**: preset personas with tuned settings you can edit
-* 📝 **Markdown** rendering + syntax‑highlighted code blocks
-* ⌨️ **Keyboard‑first** UX, quick actions, and message edit/resend
-* 📦 **Local backups**: export conversations to Markdown/JSON
+> **Requirements:** Android 8.0 (Oreo) or newer · ~40–80 MB free space · Internet connection
 
 ---
 
-## Screenshots
+## 🧰 Key Features
 
-> *Add screenshots in `/docs/screenshots/` and they will render here.*
+* 🔓 **Zero sign‑in** — open the app and start chatting
+* ⚡ **Live streaming replies** from GPT‑5
+* 🧑‍💼 **Agents** — preset personas with tuned settings you can edit
+* 📝 **Markdown rendering** + syntax‑highlighted code blocks
+* ⌨️ **Keyboard‑first** UX, quick actions, edit/resend last message
+* 💾 **Local backups** — export conversations to Markdown/JSON
+
+---
+
+## 🖼️ Screenshots
+
+> Add your images to `docs/screenshots/` and they’ll render below.
 
 | Home                               | Chat                               | Agents                                 |
 | ---------------------------------- | ---------------------------------- | -------------------------------------- |
@@ -47,64 +43,64 @@ SkySeek is built for people who want the power of modern AI without the bloat. N
 
 ---
 
-## Installation (Sideloading)
+## 📲 Installation (Sideloading)
 
-1. **Download** the latest APK from the link above.
-2. On your phone, open the APK and tap **Install**.
-3. If prompted, allow installs from your browser/file manager (Settings → Security → Install unknown apps).
+1. **Download** the APK from the link above.
+2. On your phone, open the file and tap **Install**.
+3. If prompted, allow installs from your browser/file manager *(Settings → Security → Install unknown apps)*.
 
-> Updates: install the new APK over the old one—your local chats stay intact.
+> **Updates:** install the new APK over the old one — your local chats remain intact.
 
 ---
 
-## Privacy
+## 🔒 Privacy
 
 * No accounts. No telemetry. No third‑party analytics.
-* Your conversations are stored **only on your device** until you export them.
-* You can clear all data from **Settings → Clear local data** at any time.
+* Conversations are stored **only on your device** until you export them.
+* Clear all data anytime: **Settings → Clear local data**.
 
-*Read the full policy in [`PRIVACY.md`](PRIVACY.md).*
+Read the full policy in **[`PRIVACY.md`](PRIVACY.md)**.
 
 ---
 
-## FAQ
+## ❓ FAQ
 
-**Does SkySeek require an account?**
+**Do I need an account?**
 No. SkySeek is completely login‑free.
 
-**Is my data uploaded anywhere?**
-No. Conversations remain on your device unless you export or share them.
+**Is any data uploaded?**
+No. Your conversations stay on your device unless you export or share them.
 
-**Which model is used?**
-SkySeek is tuned for **GPT‑5**. Future builds may allow model selection per agent.
+**Which model do you use?**
+SkySeek is tuned for **GPT‑5**. Future builds may allow per‑agent model selection.
 
-**Will there be an iOS or desktop version?**
-They’re on the roadmap—follow the repo for updates.
-
----
-
-## What’s New
-
-See the latest release notes in the [Releases](releases) page.
+**iOS or desktop versions?**
+On the roadmap — watch releases for updates.
 
 ---
 
-## Support
+## 🆕 What’s New
 
-* Issues & feedback: open a ticket in **Issues**
-* Contact: **[hello@skyseek.app](mailto:hello@skyseek.app)** (or your preferred address)
+See the latest release notes on the **[Releases](releases)** page.
 
 ---
 
-## Roadmap (high‑level)
+## 🛟 Support
+
+* Bugs & feedback: open an issue in **Issues**
+* Contact: **[di-code@outlook.com](mailto:di-code@outlook.com)**
+
+---
+
+## 🗺️ Roadmap
 
 * Per‑agent tools (web search, calculators)
 * End‑to‑end encrypted export bundles
-* Theming and custom palettes
+* Theming & custom palettes
 * iOS & desktop builds
 
 ---
 
-### Legal
+## ⚖️ Legal
 
-© SkySeek. All rights reserved. “GPT‑5” is referenced to describe the model family used within the app. SkySeek is not affiliated with or endorsed by any third‑party provider.
+© SkySeek. All rights reserved. “GPT‑5” describes the model family used within the app. SkySeek is not affiliated with or endorsed by any third‑party provider.
