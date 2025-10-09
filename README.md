@@ -33,16 +33,6 @@ Fast, clean conversations. No accounts. No tracking.
 
 ---
 
-## 🖼️ Screenshots
-
-> Add your images to `docs/screenshots/` and they’ll render below.
-
-| Settings                               | History                               | Agents                                 |
-| -------------------------------------- | ---------------------------------- | -------------------------------------- |
-| ![Home]([docs/screenshots/home.png](https://1drv.ms/i/c/C6D9B4F0E148D4C6/EQtX9Ua67vhKpHNJ6UGLmzsBpOfmjb-xRMxG0d82jU2_vQ?e=cbiAhX))     | ![Chat](docs/screenshots/chat.png) | ![Agents](docs/screenshots/agents.png) |
-
----
-
 ## 📲 Installation (Sideloading)
 
 1. **Download** the APK from the link above.
