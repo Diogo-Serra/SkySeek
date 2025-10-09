@@ -1,7 +1,7 @@
 # 🌌 SkySeek for Android
 
 **A private, login‑free AI chat app powered by GPT‑5.**
-Fast, clean conversations. No accounts. No tracking. No cloud history. Just you and your ideas.
+Fast, clean conversations. No accounts. No tracking.
 
 <p align="center">
   <a href="releases/latest"><b>⬇️ Download the latest APK</b></a><br/>
