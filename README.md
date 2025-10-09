@@ -1,5 +1,9 @@
 # 🌌 SkySeek for Android
 
+<p align="center">
+  <img src="https://1drv.ms/i/c/C6D9B4F0E148D4C6/ERKueuFlGqNAgX5dxTeUIpYBGbS2KNE2GY3xHaevSB-6Sg?e=PwD58E" alt="SkySeek app hero screenshot" width="720"/>
+</p>
+
 **A private, login‑free AI chat app powered by GPT‑5.**
 Fast, clean conversations. No accounts. No tracking.
 
@@ -19,6 +23,25 @@ Fast, clean conversations. No accounts. No tracking.
 * 🗂️ **Local control** — chats stay on‑device; export/import when you want
 
 > **Requirements:** Android 8.0 (Oreo) or newer · ~40–80 MB free space · Internet connection
+
+---
+
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="https://1drv.ms/i/c/C6D9B4F0E148D4C6/EQJJ3BeZeelBtF2JD-z4tLABdaN3RYIHx1UhzubQiiyxCg?e=cq5BfP" alt="Chat screen with streaming reply" width="300"/>
+  <img src="https://1drv.ms/i/c/C6D9B4F0E148D4C6/EQtX9Ua67vhKpHNJ6UGLmzsBpOfmjb-xRMxG0d82jU2_vQ?e=9en0T7" alt="Agents selector UI" width="300"/>
+  <img src="https://1drv.ms/i/c/C6D9B4F0E148D4C6/Ea9BiTUOwo9Bu98WnKIh-X4Bwqt4A0zxwQ4leH0wzRzI7A?e=olqhC9" alt="Settings screen with privacy options" width="300"/>
+</p>
+
+<details>
+<summary>Captions</summary>
+
+* **Chat:** live streaming responses with edit/resend of your last message.
+* **Agents:** switch between General, Research, Code, Tutor — or create your own.
+* **Settings:** one‑tap data wipe, export/import, and UI tweaks.
+
+</details>
 
 ---
 
