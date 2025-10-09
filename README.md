@@ -1,7 +1,8 @@
 # 🌌 SkySeek for Android
 
 <p align="center">
-  <img src="https://1drv.ms/i/c/C6D9B4F0E148D4C6/ERKueuFlGqNAgX5dxTeUIpYBGbS2KNE2GY3xHaevSB-6Sg?e=PwD58E" alt="SkySeek app hero screenshot" width="720"/>
+  <!-- Replace these relative paths with your actual image filenames placed under /assets/readme/ -->
+<img src="./assets/readme/hero.png" alt="SkySeek app hero screenshot" width="720"/>
 </p>
 
 **A private, login‑free AI chat app powered by GPT‑5.**
