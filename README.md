@@ -1,129 +1,110 @@
-# SkySeek
+# SkySeek for Android
 
-*A private, login‑free ChatBot powered by **GPT‑5**, with lightweight **agents** and a clean, no‑frills UI.*
+**A private, login‑free AI chat app powered by GPT‑5.**
 
-> Privacy first: no accounts, no analytics, no server logs. Your API key and chats stay on your device.
-
----
-
-## ✨ Features
-
-* **GPT‑5 chat** with streaming replies
-* **Zero sign‑in** — paste your API key locally
-* **Agents** — small, editable role presets (system prompts + defaults)
-* **Simple UI** — markdown, code blocks, copy buttons, keyboard shortcuts
-* **Local history** — export/import chats; clear with one click
+SkySeek is built for people who want the power of modern AI without the bloat. No accounts, no tracking, no cloud history—just fast, clean conversations and simple, swappable agents.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Download
 
-* Web app (React/TypeScript + Vite) — client‑only, no backend logging
-* HTTP client with SSE for streaming
-* Local storage for key & chats (or IndexedDB)
+**➡️ [Download the latest APK](releases/latest)**
 
-> Optional Android client (Kotlin/Compose) can mirror the same API layer.
+> Verified build. Signed and ready to sideload.
 
----
-
-## ⚙️ Setup
-
-Create `.env.local` (never commit) and add your key/base URL:
-
-```env
-OPENAI_API_KEY=sk-***
-OPENAI_BASE_URL=https://api.openai.com/
-DEFAULT_MODEL=gpt-5
-```
-
-Install & run:
-
-```bash
-pnpm i
-pnpm dev
-```
-
-Build:
-
-```bash
-pnpm build && pnpm preview
-```
+**Requires:** Android 8.0 (Oreo) or newer · ~40–80 MB free space · Internet connection
 
 ---
 
-## 🧭 Using Agents
+## Why SkySeek?
 
-Agents live in `agents/` (YAML/JSON). Switch from the header dropdown or via `/agent` command.
-
-Example:
-
-```yaml
-id: coder
-name: "Coder"
-system: |
-  You write concise, correct code with brief explanations.
-model: gpt-5
-temperature: 0.2
-```
-
-Included presets: **General**, **Coder**, **Researcher**, **Teacher**. You can duplicate and edit them inline.
+* **Private by design** — no logins, no analytics, no server‑side chat storage
+* **GPT‑5 responses** — fast, accurate, and streamed live
+* **Lightweight agents** — tap to switch roles (General, Research, Code, Tutor) or create your own
+* **Beautifully simple UI** — distraction‑free chat, markdown and code blocks, one‑tap copy/share
+* **Local control** — chats stored on‑device; export/import when you want
 
 ---
 
-## 🔒 Privacy
+## Key Features
 
-* No accounts, no telemetry.
-* API key stored only in browser storage (or Android app prefs). Clear anytime.
-* Chats are local; exporting is manual and encrypted only if you choose to.
-
----
-
-## ⌨️ Shortcuts
-
-* **Ctrl/⌘ + Enter** — send
-* **Shift + Enter** — new line
-* **/agent** — quick agent switch
-* **/clear** — clear chat
-* **/temp 0.2** — set temperature
+* 🔐 **Zero sign‑in**: launch and chat—nothing to create or connect
+* 🧠 **GPT‑5 engine** with streaming replies
+* 🧩 **Agents**: preset personas with tuned settings you can edit
+* 📝 **Markdown** rendering + syntax‑highlighted code blocks
+* ⌨️ **Keyboard‑first** UX, quick actions, and message edit/resend
+* 📦 **Local backups**: export conversations to Markdown/JSON
 
 ---
 
-## 📦 Project Structure
+## Screenshots
 
-```
-skyseek/
-├─ agents/                 # agent presets
-├─ src/
-│  ├─ lib/openai.ts        # API client
-│  ├─ store/               # state + persistence
-│  ├─ components/          # Chat UI
-│  └─ pages/               # routes
-├─ public/
-└─ .env.local.example
-```
+> *Add screenshots in `/docs/screenshots/` and they will render here.*
+
+| Home                               | Chat                               | Agents                                 |
+| ---------------------------------- | ---------------------------------- | -------------------------------------- |
+| ![Home](docs/screenshots/home.png) | ![Chat](docs/screenshots/chat.png) | ![Agents](docs/screenshots/agents.png) |
 
 ---
 
-## 🐞 Troubleshooting
+## Installation (Sideloading)
 
-* **401/403** — key missing/invalid; check `.env.local`
-* **No streaming** — provider plan may not support SSE; fallback to non‑streaming
-* **Rate limits** — shorten messages, reduce max tokens, add retries
+1. **Download** the latest APK from the link above.
+2. On your phone, open the APK and tap **Install**.
+3. If prompted, allow installs from your browser/file manager (Settings → Security → Install unknown apps).
 
----
-
-## 🗺️ Roadmap
-
-* [ ] Per‑agent tools (web search, calculators) with permission prompts
-* [ ] E2E encryption for exported chats
-* [ ] Desktop build (Tauri) and Android parity module
+> Updates: install the new APK over the old one—your local chats stay intact.
 
 ---
 
-## 📝 License
+## Privacy
 
-MIT — Privacy first.
+* No accounts. No telemetry. No third‑party analytics.
+* Your conversations are stored **only on your device** until you export them.
+* You can clear all data from **Settings → Clear local data** at any time.
+
+*Read the full policy in [`PRIVACY.md`](PRIVACY.md).*
 
 ---
 
-**Author:** Diogo Serra (Diiicode) — building simple, private AI tools.
+## FAQ
+
+**Does SkySeek require an account?**
+No. SkySeek is completely login‑free.
+
+**Is my data uploaded anywhere?**
+No. Conversations remain on your device unless you export or share them.
+
+**Which model is used?**
+SkySeek is tuned for **GPT‑5**. Future builds may allow model selection per agent.
+
+**Will there be an iOS or desktop version?**
+They’re on the roadmap—follow the repo for updates.
+
+---
+
+## What’s New
+
+See the latest release notes in the [Releases](releases) page.
+
+---
+
+## Support
+
+* Issues & feedback: open a ticket in **Issues**
+* Contact: **[hello@skyseek.app](mailto:hello@skyseek.app)** (or your preferred address)
+
+---
+
+## Roadmap (high‑level)
+
+* Per‑agent tools (web search, calculators)
+* End‑to‑end encrypted export bundles
+* Theming and custom palettes
+* iOS & desktop builds
+
+---
+
+### Legal
+
+© SkySeek. All rights reserved. “GPT‑5” is referenced to describe the model family used within the app. SkySeek is not affiliated with or endorsed by any third‑party provider.
