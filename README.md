@@ -1,5 +1,5 @@
 <div align="center">
-# 🌌 SkySeek for Android
+## 🌌 SkySeek for Android
 
 <p align="center">
   <!-- Replace these relative paths with your actual image filenames placed under /assets/readme/ -->
