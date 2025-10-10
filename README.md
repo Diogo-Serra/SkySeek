@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace these relative paths with your actual image filenames placed under /assets/readme/ -->
-<img src="./assets/readme/hero.png" alt="SkySeek app hero screenshot" style="max-width: 820px; width: 100%; border-radius: 12px;"/>
+<img src="./assets/readme/hero.png" alt="SkySeek app hero screenshot" style="max-width="260px; width: 100%; border-radius: 12px;"/>
 </p>
 
 **A private, login‑free AI chat app powered by GPT‑5.**
