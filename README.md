@@ -12,15 +12,13 @@ Fast, clean conversations. No accounts. No tracking.
 
 ---
 
----
-
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="./assets/readme/hero.png" alt="SkySeek app hero screenshot" width="260"/>
-  <img src="./assets/readme/chat.png" alt="Chat screen with streaming reply" width="260"/>
-  <img src="./assets/readme/agents.png" alt="Agents selector UI" width="260"/>
-  <img src="./assets/readme/settings.png" alt="Settings screen with privacy options" width="260"/>
+  <img src="./assets/readme/hero.png" alt="SkySeek app hero screenshot" width="180"/>
+  <img src="./assets/readme/chat.png" alt="Chat screen with streaming reply" width="180"/>
+  <img src="./assets/readme/agents.png" alt="Agents selector UI" width="180"/>
+  <img src="./assets/readme/settings.png" alt="Settings screen with privacy options" width="180"/>
 </p>
 
 <details>
