@@ -2,11 +2,6 @@
   
 ## 🌌 SkySeek for Android
 
-<p align="center">
-  <!-- Replace these relative paths with your actual image filenames placed under /assets/readme/ -->
-<img src="./assets/readme/hero.png" alt="SkySeek app hero screenshot" width="260"/>
-</p>
-
 **A private, login‑free AI chat app powered by GPT‑5.**
 Fast, clean conversations. No accounts. No tracking.
 
@@ -32,6 +27,7 @@ Fast, clean conversations. No accounts. No tracking.
 ## 🖼️ Screenshots
 
 <p align="center">
+  <img src="./assets/readme/hero.png" alt="SkySeek app hero screenshot" width="260"/>
   <img src="./assets/readme/chat.png" alt="Chat screen with streaming reply" width="260"/>
   <img src="./assets/readme/agents.png" alt="Agents selector UI" width="260"/>
   <img src="./assets/readme/settings.png" alt="Settings screen with privacy options" width="260"/>
