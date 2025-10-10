@@ -15,7 +15,6 @@ Fast, clean conversations. No accounts. No tracking.
 ---
 
 ## 🖼️ Screenshots
-
 <p align="center">
   <img src="./assets/readme/hero.png" alt="SkySeek app hero screenshot" width="180"/>
   <img src="./assets/readme/chat.png" alt="Chat screen with streaming reply" width="180"/>
