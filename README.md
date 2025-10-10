@@ -30,9 +30,9 @@ Fast, clean conversations. No accounts. No tracking.
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://1drv.ms/i/c/C6D9B4F0E148D4C6/EQJJ3BeZeelBtF2JD-z4tLABdaN3RYIHx1UhzubQiiyxCg?e=cq5BfP" alt="Chat screen with streaming reply" width="300"/>
-  <img src="https://1drv.ms/i/c/C6D9B4F0E148D4C6/EQtX9Ua67vhKpHNJ6UGLmzsBpOfmjb-xRMxG0d82jU2_vQ?e=9en0T7" alt="Agents selector UI" width="300"/>
-  <img src="https://1drv.ms/i/c/C6D9B4F0E148D4C6/Ea9BiTUOwo9Bu98WnKIh-X4Bwqt4A0zxwQ4leH0wzRzI7A?e=olqhC9" alt="Settings screen with privacy options" width="300"/>
+  <img src="./assets/readme/settings.png" alt="SkySeek app hero screenshot" width="720"/>
+  <img src="./assets/readme/chat.png" alt="SkySeek app hero screenshot" width="720"/>
+  <img src="./assets/readme/hero.png" alt="SkySeek app hero screenshot" width="720"/>
 </p>
 
 <details>
