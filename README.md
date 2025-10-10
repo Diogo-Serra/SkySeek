@@ -12,16 +12,6 @@ Fast, clean conversations. No accounts. No tracking.
 
 ---
 
-## ✨ Why SkySeek?
-
-* 🔐 **Private by design** — no logins, no analytics, no server‑side chat storage
-* 🧠 **GPT‑5 responses** — fast, accurate, and streamed live
-* 🧩 **Lightweight agents** — switch roles (General, Research, Code, Tutor) or create your own
-* 🧼 **Beautifully simple UI** — distraction‑free chat, Markdown + code blocks, one‑tap copy/share
-* 🗂️ **Local control** — chats stay on‑device; export/import when you want
-
-> **Requirements:** Android 8.0 (Oreo) or newer · ~40–80 MB free space · Internet connection
-
 ---
 
 ## 🖼️ Screenshots
@@ -43,6 +33,16 @@ Fast, clean conversations. No accounts. No tracking.
 </details>
 
 ---
+
+## ✨ Why SkySeek?
+
+* 🔐 **Private by design** — no logins, no analytics, no server‑side chat storage
+* 🧠 **GPT‑5 responses** — fast, accurate, and streamed live
+* 🧩 **Lightweight agents** — switch roles (General, Research, Code, Tutor) or create your own
+* 🧼 **Beautifully simple UI** — distraction‑free chat, Markdown + code blocks, one‑tap copy/share
+* 🗂️ **Local control** — chats stay on‑device; export/import when you want
+
+> **Requirements:** Android 8.0 (Oreo) or newer · ~40–80 MB free space · Internet connection
 
 ## 🧰 Key Features
 
