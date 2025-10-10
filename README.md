@@ -2,14 +2,14 @@
 
 <p align="center">
   <!-- Replace these relative paths with your actual image filenames placed under /assets/readme/ -->
-<img src="./assets/readme/hero.png" alt="SkySeek app hero screenshot" width="720"/>
+<img src="./assets/readme/hero.png" alt="SkySeek app hero screenshot" style="max-width: 820px; width: 100%; border-radius: 12px;"/>
 </p>
 
 **A private, login‑free AI chat app powered by GPT‑5.**
 Fast, clean conversations. No accounts. No tracking.
 
 <p align="center">
-  <a href="https://1drv.ms/u/c/C6D9B4F0E148D4C6/EVWy6RyTTrFFtbapsWDrqzYBVWA7NA4jpjtjL2y5SxuRSA?e=KXjz62"><b>⬇️ Download the latest APK</b></a><br/>
+  <a href="https://1drv.ms/u/c/C6D9B4F0E148D4C6/EVWy6RyTTrFFtbapsWDrqzYBVWA7NA4jpjtjL2y5SxuRSA?e=rjkbKR"><b>⬇️ Download the latest APK</b></a><br/>
   <sub>Verified build · Signed and ready to sideload</sub>
 </p>
 
@@ -30,9 +30,9 @@ Fast, clean conversations. No accounts. No tracking.
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="./assets/readme/settings.png" alt="SkySeek app hero screenshot" width="720"/>
-  <img src="./assets/readme/chat.png" alt="SkySeek app hero screenshot" width="720"/>
-  <img src="./assets/readme/hero.png" alt="SkySeek app hero screenshot" width="720"/>
+  <img src="./assets/readme/chat.png" alt="Chat screen with streaming reply" width="260"/>
+  <img src="./assets/readme/agents.png" alt="Agents selector UI" width="260"/>
+  <img src="./assets/readme/settings.png" alt="Settings screen with privacy options" width="260"/>
 </p>
 
 <details>
