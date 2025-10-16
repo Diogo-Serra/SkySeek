@@ -25,9 +25,9 @@ Fast, clean conversations. No accounts. No tracking.
 <details>
 <summary>Captions</summary>
 
-* **Chat:** live streaming responses with edit/resend of your last message.
-* **Agents:** switch between General, Research, Code, Tutor — or create your own.
-* **Settings:** one‑tap data wipe, export/import, and UI tweaks.
+**Chat:** live streaming responses with edit/resend of your last message.
+**Agents:** switch between General, Research, Code, Tutor — or create your own.
+**Settings:** one‑tap data wipe, export/import, and UI tweaks.
 
 </details>
 
@@ -35,22 +35,22 @@ Fast, clean conversations. No accounts. No tracking.
 
 ## ✨ Why SkySeek?
 
-* 🔐 **Private by design** — no logins, no analytics, no server‑side chat storage
-* 🧠 **GPT‑5 responses** — fast, accurate, and streamed live
-* 🧩 **Lightweight agents** — switch roles (General, Research, Code, Tutor) or create your own
-* 🧼 **Beautifully simple UI** — distraction‑free chat, Markdown + code blocks, one‑tap copy/share
-* 🗂️ **Local control** — chats stay on‑device; export/import when you want
+🔐 **Private by design** — no logins, no analytics, no server‑side chat storage
+🧠 **GPT‑5 responses** — fast, accurate, and streamed live
+🧩 **Lightweight agents** — switch roles (General, Research, Code, Tutor) or create your own
+🧼 **Beautifully simple UI** — distraction‑free chat, Markdown + code blocks, one‑tap copy/share
+🗂️ **Local control** — chats stay on‑device; export/import when you want
 
 > **Requirements:** Android 8.0 (Oreo) or newer · ~40–80 MB free space · Internet connection
 
 ## 🧰 Key Features
 
-* 🔓 **Zero sign‑in** — open the app and start chatting
-* ⚡ **Live streaming replies** from GPT‑5
-* 🧑‍💼 **Agents** — preset personas with tuned settings you can edit
-* 📝 **Markdown rendering** + syntax‑highlighted code blocks
-* ⌨️ **Keyboard‑first** UX, quick actions, edit/resend last message
-* 💾 **Local backups** — export conversations to Markdown/JSON
+🔓 **Zero sign‑in** — open the app and start chatting
+⚡ **Live streaming replies** from GPT‑5
+🧑‍💼 **Agents** — preset personas with tuned settings you can edit
+📝 **Markdown rendering** + syntax‑highlighted code blocks
+⌨️ **Keyboard‑first** UX, quick actions, edit/resend last message
+💾 **Local backups** — export conversations to Markdown/JSON
 
 ---
 
