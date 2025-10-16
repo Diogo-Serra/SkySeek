@@ -56,19 +56,19 @@ Fast, clean conversations. No accounts. No tracking.
 
 ## 📲 Installation (Sideloading)
 
-1. **Download** the APK from the link above.
-2. On your phone, open the file and tap **Install**.
-3. If prompted, allow installs from your browser/file manager *(Settings → Security → Install unknown apps)*.
+**Download** the APK from the link above.
+On your phone, open the file and tap **Install**.
+If prompted, allow installs from your browser/file manager *(Settings → Security → Install unknown apps)*.
 
-> **Updates:** install the new APK over the old one — your local chats remain intact.
+**Updates:** install the new APK over the old one — your local chats remain intact.
 
 ---
 
 ## 🔒 Privacy
 
-* No accounts. No telemetry. No third‑party analytics.
-* Conversations are stored **only on your device** until you export them.
-* Clear all data anytime: **Settings → Clear local data**.
+No accounts. No telemetry. No third‑party analytics.
+Conversations are stored **only on your device** until you export them.
+Clear all data anytime: **Settings → Clear local data**.
 
 ---
 
@@ -96,17 +96,17 @@ See the latest release notes on the **[Releases](releases)** page.
 
 ## 🛟 Support
 
-* Bugs & feedback: open an issue in **Issues**
-* Contact: **[di-code@outlook.com](mailto:di-code@outlook.com)**
+Bugs & feedback: open an issue in **Issues**
+Contact: **[di-code@outlook.com](mailto:di-code@outlook.com)**
 
 ---
 
 ## 🗺️ Roadmap
 
-* Per‑agent tools (web search, calculators)
-* End‑to‑end encrypted export bundles
-* Theming & custom palettes
-* iOS & desktop builds
+Per‑agent tools (web search, calculators)
+End‑to‑end encrypted export bundles
+Theming & custom palettes
+iOS & desktop builds
 
 ---
 
