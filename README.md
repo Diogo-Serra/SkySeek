@@ -70,8 +70,6 @@ Fast, clean conversations. No accounts. No tracking.
 * Conversations are stored **only on your device** until you export them.
 * Clear all data anytime: **Settings → Clear local data**.
 
-Read the full policy in **[`PRIVACY.md`](PRIVACY.md)**.
-
 ---
 
 ## ❓ FAQ
